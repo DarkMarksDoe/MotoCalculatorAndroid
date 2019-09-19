@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="hola_prros">Hola prros</string>
+    <string name="st_tv_operacion">Operacion</string>
+    <string name="st_tv_resul">Resultado</string>
+</resources>
