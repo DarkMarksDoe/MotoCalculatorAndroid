@@ -3,4 +3,11 @@
     <string name="hola_prros">Hola prros</string>
     <string name="st_tv_operacion">Operacion</string>
     <string name="st_tv_resul">Resultado</string>
+    <string name="button_pi"> &#928;</string>
+    <string name="button_raiz"> &#8730;</string>
+    <string name="button_plus"> &#43;</string>
+    <string name="button_dot"> &#42;</string>
+
+
+
 </resources>
